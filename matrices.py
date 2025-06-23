@@ -7,7 +7,7 @@ matriz = [
 for fila in matriz:
     print(fila)
 
-# Ejercicio 
+# Ejercicio 2
 numeros = []
 for _ in range(4):
     num = int(input("Ingrese un número: "))
