@@ -32,7 +32,6 @@ for i in range(2):
 
 nombres = list(productos.keys())
 
-# Supongamos que tienes el diccionario productos ya cargado
 stock1 = productos[nombres[0]]["stock"]
 stock2 = productos[nombres[1]]["stock"]
 
