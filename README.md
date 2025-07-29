@@ -1,7 +1,8 @@
-¿QUE ES? --> La forma en que un programa abre, lee, escribe, modifica y cierra archivos que están guardados en la computadora.
+#¿Qué es??
+La forma en que un programa abre, lee, escribe, modifica y cierra archivos que están guardados en la computadora.
 Manejo de archivos = que tu programa pueda hablar con los archivos de tu compu (abrirlos, leerlos y escribirlos).
 
-¿Para qué sirve?
+#¿Para qué sirve?
   - Guardar información para usarla más tarde (por ejemplo: resultados, notas, datos).
   - Leer datos que ya están guardados sin tener que escribirlos en el código.
   - Crear reportes, logs, etc.
