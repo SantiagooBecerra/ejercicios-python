@@ -6,8 +6,8 @@ Manejo de archivos = que tu programa pueda hablar con los archivos de tu compu (
   - Leer datos que ya están guardados sin tener que escribirlos en el código.
   - Crear reportes, logs, etc.
 
-# open("archivo",modo,encoding=None):        ----> Sintaxis
-
+#  Sintaxis =>
+      open("archivo",modo,encoding=None):
 # modo => 
       r= read (modo de lectura), 
       w=write(abre para escritura y borra todo lo anterior),
